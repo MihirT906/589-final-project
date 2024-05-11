@@ -1,0 +1,17 @@
+The results can be reproduced by running:
+
+KNN and Random Forest results:
+./src/knn-rf-digits-script.ipynb
+./src/knn-rf-titanic-script.ipynb
+./src/knn-rf-loan-script.ipynb
+./src/knn-rf-parkinsons-script.ipynb
+
+Neural Network results:
+./neural_network/nn_eval.py
+
+Or use the following commands:
+python ./src/knn-rf-digits-script.py
+python ./src/knn-rf-titanic-script.py
+python ./src/knn-rf-loan-script.py
+python ./src/knn-rf-parkinsons-script.py
+python ./neural_network/nn_eval.py
