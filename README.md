@@ -6,10 +6,12 @@ Aaron Tian
 ## Running the KNN and Random Forest Evaluations
 Code present in './src'
 See the results on:
+```console
 ./src/knn-rf-digits-script.ipynb
 ./src/knn-rf-titanic-script.ipynb
 ./src/knn-rf-loan-script.ipynb
 ./src/knn-rf-parkinsons-script.ipynb
+```
 
 ## Running the Neural Network Evaluations
 All neural network code is self-contained and can be found in the folder `./neural_network`. 
